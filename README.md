@@ -1,2 +1,2 @@
-# Eyes-excercise
-This exercise uses
+# Eyes excercise
+
