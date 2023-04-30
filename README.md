@@ -1,2 +1,2 @@
-# Eyes excercise
+# Eyes exercise
 
