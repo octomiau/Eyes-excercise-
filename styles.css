@@ -1,0 +1,35 @@
+body {
+  background-image: url('eyescat.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+
+.eyes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.eye {
+  width: 12vw;
+  height: 12vw;
+  background: #fff;
+  display: inline-block;
+  margin: 5.5vw;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+.ball {
+  width: 5vw;
+  height: 5vw;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
